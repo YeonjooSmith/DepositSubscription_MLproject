@@ -17,7 +17,7 @@ The goal of this project is to answer the following question:
 
 **<div align="center">Can we predict if a client is going to subscribe a term deposit using the information collected about the client?**
 
-Moreover, not only predicting 'yes' or 'no' to the question above, we want to know which factors are more influential to decide the prediction.   
+<div align="left">Moreover, not only predicting 'yes' or 'no' to the question above, we want to know which factors are more influential to decide the prediction.   
 
 
 ### Models used in this project
