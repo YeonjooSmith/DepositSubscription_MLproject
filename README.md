@@ -26,7 +26,7 @@ principal component analysis (PCA), K nearest neighbors (KNN), and Random Forest
 
 ### Modeling process
 The following diagram summarize the modeling process for this project. 
-<img src = 'images/ModelingProcess.PNG' width="500">
+<img src = 'Images/ModelingProcess.PNG' width="500">
 
 In the process of building machine learning models, three machine learning algorithms are implemented: 
 principal component analysis (PCA), K nearest neighbors (KNN), and Random Forest. 
@@ -39,14 +39,14 @@ principal component analysis (PCA), K nearest neighbors (KNN), and Random Forest
 By comparing the 4 evaluation scores, the performances of the three models
 were compared. 
 
-<img src = 'images/evaluationScores.PNG' width="500">
+<img src = 'Images/evaluationScores.PNG' width="500">
 
 The random forest model performed the best in accuracy, precision, and F-1 scores for predicting testing dataset. 
 
 Moreover,the random forest model provides the feature importance which 
 is to calculate the ratio in percentage that influence the decision of the outcome.
 
-<img src = 'images/featureImport.png' width="500">
+<img src = 'Images/featureImport.png' width="500">
 
 The top 10 most important features are plotted in the graph above.
 The + and - signs indicate the positive and negative correlation with the target variable. 
